@@ -21,12 +21,12 @@ body {
 .left {
   position: initial;
   background-color: rgb(126, 219, 231);
-  padding: 20px;
+  padding: 21px;
 }
 .right {
   position: initial;
   background-color: rgb(162, 202, 206);
-  padding: 20px;
+  padding: 21px;
 }
 .image,
 .Contact,
